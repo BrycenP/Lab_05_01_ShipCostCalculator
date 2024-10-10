@@ -23,8 +23,8 @@ public class Main {
         else
         {
             costAfterShipping = itemCost;
-            System.out.println("Your shipping cost is " +shippingCost);
-            System.out.println("Your total cost is " + costAfterShipping);
+            System.out.println("Your shipping cost is $" +shippingCost);
+            System.out.println("Your total cost is $" + costAfterShipping);
 
         }
     }
